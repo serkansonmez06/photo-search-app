@@ -1,6 +1,6 @@
 
 
-  ===>      https://photo1-search1-engine1.herokuapp.com/
+
 
 
 #React-Redux Photo-Search-Engine
