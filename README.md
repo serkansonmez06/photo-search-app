@@ -1,11 +1,9 @@
 
-
-
-
-
 #React-Redux Photo-Search-Engine
 
-User can type and search kind of photo. App will diplay 5 photos each times. User can reset the input field and display. If users want to leave message through the app, they can and they are able to their comments in user-comment component! Their message will display in different page right away after click on send button.
+- deployed on heroku  please click ==> https://photo1-search1-engine1.herokuapp.com/  
+
+User can type and search any kind of photo. App will display 5 photos each time. User can reset the input field and displayed photos on the screen. If users want to leave message through the app, they can leave message and they are able to see their comments in user-comment component! User comment will display user's name and his/her message or messages. Their message will display in different page right away after click on send button.
 
 Table of contents
 - Search
