@@ -3,7 +3,7 @@
 
 - deployed on Firebase  please click ==> https://photo-app-ed020.web.app/
 
-User can type and search any kind of photo. App will display 5 photos each time. User can reset the input field and displayed photos on the screen. If users want to leave message through the app, they can leave message and they are able to see their comments in user-comment component! User comment will display user's name and his/her message or messages. Their message will display in different page right away after click on send button. User can click on facebook, linkedin, github and google icon to visit developer's personal social media accounts. 
+Users can type and search for any kind of photo. The app will display 5 photos each time. Users can reset the input field and displayed photos on the screen. If users want to leave a message through the app, they can leave a message and they are able to see their comments in the user-comment component! A user's comments will display the user's name and his/her message or messages. Their message will display on a different page right away after clicking on the send button. Users can click on Facebook, Linkedin, Github, and google icon to visit developer's personal social media accounts.
 
 Table of contents
 - Search
